@@ -1,0 +1,2 @@
+start: powershell -ExecutionPolicy Bypass -File D:\python\start_process_guard.ps1
+stop: powershell -ExecutionPolicy Bypass -File D:\python\stop_process_guard.ps1

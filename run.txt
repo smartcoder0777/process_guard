@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File D:\python\start_process_guard.ps1 --only-name svchost.exe --match-mode substring --allow-critical --enforce
